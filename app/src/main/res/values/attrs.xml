@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QTContentLayout">
+        <attr name="cl_loadingLayoutId" format="reference" />
+        <attr name="cl_errorLayoutId" format="reference" />
+        <attr name="cl_emptyLayoutId" format="reference" />
+        <attr name="cl_contentLayoutId" format="reference" />
+    </declare-styleable>
+</resources>

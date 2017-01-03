@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_empty_add_type" type="id"/>
+    <item name="tag_empty_add_view" type="id"/>
+    <item name="tag_empty_content" type="id"/>
+    <item name="tag_empty_layout_manager" type="id"/>
+    <item name="tag_empty_retry" type="id"/>
+    <item name="tag_empty_setting" type="id"/>
+    <string name="app_name">Library</string>
+</resources>
