@@ -1,14 +1,54 @@
 [
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_tab4s.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/icon_tab4s.png"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/mipmap-xhdpi/arrow_left_white.png",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/mipmap-xhdpi/arrow_left_white.png"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/tab_screen.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/tab_screen.png"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/mipmap-xhdpi/back_gray.png",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/mipmap-xhdpi/back_gray.png"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_tab1n.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/icon_tab1n.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/password.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/password.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ver_code.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/ver_code.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_tab1s.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/icon_tab1s.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/arrow_left_white.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/arrow_left_white.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/phone_gray.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/phone_gray.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/back_gray.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/back_gray.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/tab_scan_selected.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/tab_scan_selected.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_tab4n.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/mipmap-xhdpi/icon_tab4n.png"
     }
 ]

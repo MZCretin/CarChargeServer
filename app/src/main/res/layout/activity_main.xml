@@ -5,10 +5,43 @@
               android:background="#FFFFFF"
               android:orientation="vertical">
 
-   <TextView
-       android:text="哈哈"
+   <com.cretin.www.carchargeserver.view.NoScrollViewPager
+       android:id="@+id/view_pager"
        android:layout_width="match_parent"
-       android:layout_height="match_parent"/>
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:layout_weight="1" />
+
+   <include layout="@layout/line"></include>
+
+   <RadioGroup
+       android:id="@+id/rg_group"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="@color/app_background_color"
+       android:orientation="horizontal">
+
+      <RadioButton
+          android:id="@+id/rb_home"
+          style="@style/BottomTabStyle"
+          android:checked="false"
+          android:drawableTop="@drawable/btn_tab_home_selector"
+          android:text="首页" />
+
+      <RadioButton
+          android:id="@+id/rb_product"
+          style="@style/BottomTabStyle"
+          android:drawableTop="@drawable/btn_tab_saoma_selector"
+          android:text="扫码" />
+
+
+      <RadioButton
+          android:id="@+id/rb_me"
+          style="@style/BottomTabStyle"
+          android:drawableTop="@drawable/btn_tab_me_selector"
+          android:text="我的" />
+   </RadioGroup>
 
 </LinearLayout>
 

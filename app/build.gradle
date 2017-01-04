@@ -4,6 +4,8 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.1"
 
+    //兼容Android6.0系统所需，如果这句话报错，可在dependencies标签下使用compile 'cn.bmob.android:http-legacy:1.0'**
+    useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
         applicationId "com.fangrongjie.www.srjie"
@@ -38,10 +40,14 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile project(':library')
-    compile 'com.android.support:appcompat-v7:25.0.0'
+
+    compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.qy.easyframe:easyframe:3.0.0'
     compile 'com.jakewharton:butterknife:7.0.0'
     compile 'com.github.orhanobut:hawk:1.21'
+    compile 'com.android.support:design:24.2.1'
     compile 'com.android.support:support-v4:24.2.1'
+    compile 'cn.bmob.android:bmob-sdk:3.5.0'
+    compile 'org.greenrobot:eventbus:3.0.0'
     testCompile 'junit:junit:4.12'
 }

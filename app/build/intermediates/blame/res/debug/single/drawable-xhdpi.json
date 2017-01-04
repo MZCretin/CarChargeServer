@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_network_error.png",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/drawable-xhdpi/icon_network_error.png"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_network_error.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable-xhdpi/icon_network_error.png"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_loading_more.png",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/drawable-xhdpi/icon_loading_more.png"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_loading_more.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable-xhdpi/icon_loading_more.png"
     }
 ]

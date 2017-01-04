@@ -1,166 +1,238 @@
 [
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_tap.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_tap.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_normal.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_normal.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_vector_test.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_icon_background.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_tap.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_tap.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/btn_tab_home_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/btn_tab_home_selector.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_check_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_check_selector.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/btn_tab_me_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/btn_tab_me_selector.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_normal.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_normal.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/progress_large.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/drawable/progress_large.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/loading_dialog_bg.9.png",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/drawable/loading_dialog_bg.9.png"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_selector.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/btn_tab_saoma_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/btn_tab_saoma_selector.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/load_progress_bar.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/load_progress_bar.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/progress_large.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/progress_large.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/load_progress_bar.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/src/main/res/drawable/load_progress_bar.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_wifi_disable.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_wifi_disable.png"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_bg_low.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/btn_tab_text_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/btn_tab_text_selector.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_bg.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bg_button_round.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/bg_button_round.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_tile_bg.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_dialog_bg.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_dialog_bg.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/cretin/EpibolyAndroidProjects/SRJie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/loading_dialog_bg.9.png",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/loading_dialog_bg.9.png"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/item_bg_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/src/main/res/drawable/item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_close_bg_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_focused.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_selector.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_focused.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/cretin/EpibolyAndroidProjects/CarChargeServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
     }
 ]
